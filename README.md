@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+Fenix2JPG
 
-<!--
-**Fenix2JPG/Fenix2JPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## Contribution Snake 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
+## My Tech Stack and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+
+<p>
+  
+<img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js" />
+
+
+
+
+### Software and Tools
+
+<p>
+	
+<img src="https://skillicons.dev/icons?i=discord,blender,arduino,firebase,git,redis,vscode,figma,github,androidstudio,flask" />
+
+
+
